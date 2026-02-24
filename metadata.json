@@ -1,0 +1,7 @@
+{
+  "name": "Driving Sleep Alert",
+  "description": "Real-time driver safety system using computer vision to detect eye closure and prevent accidents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
